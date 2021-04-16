@@ -1,0 +1,11 @@
+{
+    "__comment": "mongodb://localhost:27017/UrbanGalleria",
+    "connectionString": "mongodb://localhost:27017/UrbanGalleria",
+    "secret": "byaleemkhan",
+    "baseUrl":"http://localhost:4100/",
+    "email": "sample@gmail.com",
+    "password": "uiqeurquiwyuqwe",
+    "API_KEY":"96afff05e686ecfffe6914b6fac47a0b",
+    "API_SECRET_KEY":"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",
+    "SHOP":"https://urban-mart-store.myshopify.com/"
+}

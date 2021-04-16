@@ -1,0 +1,777 @@
+{
+  "id": 3697706041516,
+  "admin_graphql_api_id": "gid://shopify/Order/3697706041516",
+  "app_id": 1354745,
+  "browser_ip": null,
+  "buyer_accepts_marketing": false,
+  "cancel_reason": null,
+  "cancelled_at": null,
+  "cart_token": null,
+  "checkout_id": null,
+  "checkout_token": null,
+  "closed_at": null,
+  "confirmed": true,
+  "contact_email": "fahim@adlytic.ai",
+  "created_at": "2021-04-03T10:54:13+05:00",
+  "currency": "PKR",
+  "current_subtotal_price": "0.00",
+  "current_subtotal_price_set": {
+      "shop_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      }
+  },
+  "current_total_discounts": "0.00",
+  "current_total_discounts_set": {
+      "shop_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      }
+  },
+  "current_total_duties_set": null,
+  "current_total_price": "0.00",
+  "current_total_price_set": {
+      "shop_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      }
+  },
+  "current_total_tax": "0.00",
+  "current_total_tax_set": {
+      "shop_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      }
+  },
+  "customer_locale": "en",
+  "device_id": null,
+  "discount_codes": [],
+  "email": "fahim@adlytic.ai",
+  "financial_status": "refunded",
+  "fulfillment_status": "fulfilled",
+  "gateway": "manual",
+  "landing_site": null,
+  "landing_site_ref": null,
+  "location_id": null,
+  "name": "#1006",
+  "note": "",
+  "note_attributes": [],
+  "number": 6,
+  "order_number": 1006,
+  "order_status_url": "https://urban-mart-store.myshopify.com/55864721580/orders/7d83b065cdd7a3ec77cd994678fec388/authenticate?key=e92eb51c8fe675e84fc6de1f117b188c",
+  "original_total_duties_set": null,
+  "payment_gateway_names": [
+      "manual"
+  ],
+  "phone": null,
+  "presentment_currency": "PKR",
+  "processed_at": "2021-04-03T10:54:13+05:00",
+  "processing_method": "manual",
+  "reference": null,
+  "referring_site": null,
+  "source_identifier": null,
+  "source_name": "shopify_draft_order",
+  "source_url": null,
+  "subtotal_price": "16500.00",
+  "subtotal_price_set": {
+      "shop_money": {
+          "amount": "16500.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "16500.00",
+          "currency_code": "PKR"
+      }
+  },
+  "tags": "urgent",
+  "tax_lines": [
+      {
+          "price": "2640.00",
+          "rate": 0.16,
+          "title": "GST",
+          "price_set": {
+              "shop_money": {
+                  "amount": "2640.00",
+                  "currency_code": "PKR"
+              },
+              "presentment_money": {
+                  "amount": "2640.00",
+                  "currency_code": "PKR"
+              }
+          }
+      }
+  ],
+  "taxes_included": false,
+  "test": false,
+  "token": "7d83b065cdd7a3ec77cd994678fec388",
+  "total_discounts": "0.00",
+  "total_discounts_set": {
+      "shop_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      }
+  },
+  "total_line_items_price": "16500.00",
+  "total_line_items_price_set": {
+      "shop_money": {
+          "amount": "16500.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "16500.00",
+          "currency_code": "PKR"
+      }
+  },
+  "total_outstanding": "0.00",
+  "total_price": "19140.00",
+  "total_price_set": {
+      "shop_money": {
+          "amount": "19140.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "19140.00",
+          "currency_code": "PKR"
+      }
+  },
+  "total_price_usd": "125.34",
+  "total_shipping_price_set": {
+      "shop_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "PKR"
+      }
+  },
+  "total_tax": "2640.00",
+  "total_tax_set": {
+      "shop_money": {
+          "amount": "2640.00",
+          "currency_code": "PKR"
+      },
+      "presentment_money": {
+          "amount": "2640.00",
+          "currency_code": "PKR"
+      }
+  },
+  "total_tip_received": "0.00",
+  "total_weight": 25000,
+  "updated_at": "2021-04-03T10:56:03+05:00",
+  "user_id": 72294465708,
+  "billing_address": {
+      "first_name": "Fahim",
+      "address1": "Street 1 house no. 5",
+      "phone": "+923154260304",
+      "city": "Lahore",
+      "zip": "58401",
+      "province": null,
+      "country": "Pakistan",
+      "last_name": "Khan",
+      "address2": "301",
+      "company": "UG",
+      "latitude": null,
+      "longitude": null,
+      "name": "Fahim Khan",
+      "country_code": "PK",
+      "province_code": null
+  },
+  "customer": {
+      "id": 5119412633772,
+      "email": "fahim@adlytic.ai",
+      "accepts_marketing": false,
+      "created_at": "2021-04-03T10:05:47+05:00",
+      "updated_at": "2021-04-03T10:56:08+05:00",
+      "first_name": "Fahim",
+      "last_name": "Khan",
+      "orders_count": 5,
+      "state": "disabled",
+      "total_spent": "79460.00",
+      "last_order_id": 3697706041516,
+      "note": "Old Customer",
+      "verified_email": true,
+      "multipass_identifier": null,
+      "tax_exempt": false,
+      "phone": "+923154260304",
+      "tags": "linkedin",
+      "last_order_name": "#1006",
+      "currency": "PKR",
+      "accepts_marketing_updated_at": "2021-04-03T10:05:47+05:00",
+      "marketing_opt_in_level": null,
+      "tax_exemptions": [],
+      "admin_graphql_api_id": "gid://shopify/Customer/5119412633772",
+      "default_address": {
+          "id": 6294690922668,
+          "customer_id": 5119412633772,
+          "first_name": "Fahim",
+          "last_name": "Khan",
+          "company": "UG",
+          "address1": "Street 1 house no. 5",
+          "address2": "301",
+          "city": "Lahore",
+          "province": "",
+          "country": "Pakistan",
+          "zip": "58401",
+          "phone": "+923154260304",
+          "name": "Fahim Khan",
+          "province_code": null,
+          "country_code": "PK",
+          "country_name": "Pakistan",
+          "default": true
+      }
+  },
+  "discount_applications": [],
+  "fulfillments": [
+      {
+          "id": 3265470890156,
+          "admin_graphql_api_id": "gid://shopify/Fulfillment/3265470890156",
+          "created_at": "2021-04-03T10:54:32+05:00",
+          "location_id": 61751263404,
+          "name": "#1006.1",
+          "order_id": 3697706041516,
+          "receipt": {},
+          "service": "manual",
+          "shipment_status": null,
+          "status": "success",
+          "tracking_company": "Australia Post",
+          "tracking_number": "345345",
+          "tracking_numbers": [
+              "345345"
+          ],
+          "tracking_url": "http://auspost.com.au/track/track.html?id=345345",
+          "tracking_urls": [
+              "http://auspost.com.au/track/track.html?id=345345"
+          ],
+          "updated_at": "2021-04-03T10:54:32+05:00",
+          "line_items": [
+              {
+                  "id": 9700020846764,
+                  "admin_graphql_api_id": "gid://shopify/LineItem/9700020846764",
+                  "fulfillable_quantity": 0,
+                  "fulfillment_service": "manual",
+                  "fulfillment_status": "fulfilled",
+                  "gift_card": false,
+                  "grams": 5000,
+                  "name": "Chair",
+                  "price": "3500.00",
+                  "price_set": {
+                      "shop_money": {
+                          "amount": "3500.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "3500.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "product_exists": true,
+                  "product_id": 6600950612140,
+                  "properties": [],
+                  "quantity": 3,
+                  "requires_shipping": true,
+                  "sku": "WC",
+                  "taxable": true,
+                  "title": "Chair",
+                  "total_discount": "0.00",
+                  "total_discount_set": {
+                      "shop_money": {
+                          "amount": "0.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "0.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "variant_id": 39448556044460,
+                  "variant_inventory_management": "shopify",
+                  "variant_title": null,
+                  "vendor": "UrbanGalleria",
+                  "tax_lines": [
+                      {
+                          "price": "1680.00",
+                          "price_set": {
+                              "shop_money": {
+                                  "amount": "1680.00",
+                                  "currency_code": "PKR"
+                              },
+                              "presentment_money": {
+                                  "amount": "1680.00",
+                                  "currency_code": "PKR"
+                              }
+                          },
+                          "rate": 0.16,
+                          "title": "GST"
+                      }
+                  ],
+                  "duties": [],
+                  "discount_allocations": []
+              },
+              {
+                  "id": 9700020879532,
+                  "admin_graphql_api_id": "gid://shopify/LineItem/9700020879532",
+                  "fulfillable_quantity": 0,
+                  "fulfillment_service": "manual",
+                  "fulfillment_status": "fulfilled",
+                  "gift_card": false,
+                  "grams": 10000,
+                  "name": "Table",
+                  "price": "6000.00",
+                  "price_set": {
+                      "shop_money": {
+                          "amount": "6000.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "6000.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "product_exists": true,
+                  "product_id": 6600952348844,
+                  "properties": [],
+                  "quantity": 1,
+                  "requires_shipping": true,
+                  "sku": "WT",
+                  "taxable": true,
+                  "title": "Table",
+                  "total_discount": "0.00",
+                  "total_discount_set": {
+                      "shop_money": {
+                          "amount": "0.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "0.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "variant_id": 39448557355180,
+                  "variant_inventory_management": "shopify",
+                  "variant_title": null,
+                  "vendor": "UrbanGalleria",
+                  "tax_lines": [
+                      {
+                          "price": "960.00",
+                          "price_set": {
+                              "shop_money": {
+                                  "amount": "960.00",
+                                  "currency_code": "PKR"
+                              },
+                              "presentment_money": {
+                                  "amount": "960.00",
+                                  "currency_code": "PKR"
+                              }
+                          },
+                          "rate": 0.16,
+                          "title": "GST"
+                      }
+                  ],
+                  "duties": [],
+                  "discount_allocations": []
+              }
+          ]
+      }
+  ],
+  "line_items": [
+      {
+          "id": 9700020846764,
+          "admin_graphql_api_id": "gid://shopify/LineItem/9700020846764",
+          "fulfillable_quantity": 0,
+          "fulfillment_service": "manual",
+          "fulfillment_status": "fulfilled",
+          "gift_card": false,
+          "grams": 5000,
+          "name": "Chair",
+          "price": "3500.00",
+          "price_set": {
+              "shop_money": {
+                  "amount": "3500.00",
+                  "currency_code": "PKR"
+              },
+              "presentment_money": {
+                  "amount": "3500.00",
+                  "currency_code": "PKR"
+              }
+          },
+          "product_exists": true,
+          "product_id": 6600950612140,
+          "properties": [],
+          "quantity": 3,
+          "requires_shipping": true,
+          "sku": "WC",
+          "taxable": true,
+          "title": "Chair",
+          "total_discount": "0.00",
+          "total_discount_set": {
+              "shop_money": {
+                  "amount": "0.00",
+                  "currency_code": "PKR"
+              },
+              "presentment_money": {
+                  "amount": "0.00",
+                  "currency_code": "PKR"
+              }
+          },
+          "variant_id": 39448556044460,
+          "variant_inventory_management": "shopify",
+          "variant_title": null,
+          "vendor": "UrbanGalleria",
+          "tax_lines": [
+              {
+                  "price": "1680.00",
+                  "price_set": {
+                      "shop_money": {
+                          "amount": "1680.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "1680.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "rate": 0.16,
+                  "title": "GST"
+              }
+          ],
+          "duties": [],
+          "discount_allocations": []
+      },
+      {
+          "id": 9700020879532,
+          "admin_graphql_api_id": "gid://shopify/LineItem/9700020879532",
+          "fulfillable_quantity": 0,
+          "fulfillment_service": "manual",
+          "fulfillment_status": "fulfilled",
+          "gift_card": false,
+          "grams": 10000,
+          "name": "Table",
+          "price": "6000.00",
+          "price_set": {
+              "shop_money": {
+                  "amount": "6000.00",
+                  "currency_code": "PKR"
+              },
+              "presentment_money": {
+                  "amount": "6000.00",
+                  "currency_code": "PKR"
+              }
+          },
+          "product_exists": true,
+          "product_id": 6600952348844,
+          "properties": [],
+          "quantity": 1,
+          "requires_shipping": true,
+          "sku": "WT",
+          "taxable": true,
+          "title": "Table",
+          "total_discount": "0.00",
+          "total_discount_set": {
+              "shop_money": {
+                  "amount": "0.00",
+                  "currency_code": "PKR"
+              },
+              "presentment_money": {
+                  "amount": "0.00",
+                  "currency_code": "PKR"
+              }
+          },
+          "variant_id": 39448557355180,
+          "variant_inventory_management": "shopify",
+          "variant_title": null,
+          "vendor": "UrbanGalleria",
+          "tax_lines": [
+              {
+                  "price": "960.00",
+                  "price_set": {
+                      "shop_money": {
+                          "amount": "960.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "960.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "rate": 0.16,
+                  "title": "GST"
+              }
+          ],
+          "duties": [],
+          "discount_allocations": []
+      }
+  ],
+  "refunds": [
+      {
+          "id": 799759663276,
+          "admin_graphql_api_id": "gid://shopify/Refund/799759663276",
+          "created_at": "2021-04-03T10:56:03+05:00",
+          "note": null,
+          "order_id": 3697706041516,
+          "processed_at": "2021-04-03T10:56:03+05:00",
+          "restock": true,
+          "total_duties_set": {
+              "shop_money": {
+                  "amount": "0.00",
+                  "currency_code": "PKR"
+              },
+              "presentment_money": {
+                  "amount": "0.00",
+                  "currency_code": "PKR"
+              }
+          },
+          "user_id": 72294465708,
+          "order_adjustments": [],
+          "transactions": [
+              {
+                  "id": 4645075976364,
+                  "admin_graphql_api_id": "gid://shopify/OrderTransaction/4645075976364",
+                  "amount": "19140.00",
+                  "authorization": null,
+                  "created_at": "2021-04-03T10:56:02+05:00",
+                  "currency": "PKR",
+                  "device_id": null,
+                  "error_code": null,
+                  "gateway": "manual",
+                  "kind": "refund",
+                  "location_id": null,
+                  "message": "Refunded 19140.00 from manual gateway",
+                  "order_id": 3697706041516,
+                  "parent_id": 4645074698412,
+                  "processed_at": "2021-04-03T10:56:02+05:00",
+                  "receipt": {},
+                  "source_name": "1830279",
+                  "status": "success",
+                  "test": false,
+                  "user_id": null
+              }
+          ],
+          "refund_line_items": [
+              {
+                  "id": 288367640748,
+                  "line_item_id": 9700020846764,
+                  "location_id": 61751263404,
+                  "quantity": 3,
+                  "restock_type": "return",
+                  "subtotal": 10500,
+                  "subtotal_set": {
+                      "shop_money": {
+                          "amount": "10500.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "10500.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "total_tax": 1680,
+                  "total_tax_set": {
+                      "shop_money": {
+                          "amount": "1680.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "1680.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "line_item": {
+                      "id": 9700020846764,
+                      "admin_graphql_api_id": "gid://shopify/LineItem/9700020846764",
+                      "fulfillable_quantity": 0,
+                      "fulfillment_service": "manual",
+                      "fulfillment_status": "fulfilled",
+                      "gift_card": false,
+                      "grams": 5000,
+                      "name": "Chair",
+                      "price": "3500.00",
+                      "price_set": {
+                          "shop_money": {
+                              "amount": "3500.00",
+                              "currency_code": "PKR"
+                          },
+                          "presentment_money": {
+                              "amount": "3500.00",
+                              "currency_code": "PKR"
+                          }
+                      },
+                      "product_exists": true,
+                      "product_id": 6600950612140,
+                      "properties": [],
+                      "quantity": 3,
+                      "requires_shipping": true,
+                      "sku": "WC",
+                      "taxable": true,
+                      "title": "Chair",
+                      "total_discount": "0.00",
+                      "total_discount_set": {
+                          "shop_money": {
+                              "amount": "0.00",
+                              "currency_code": "PKR"
+                          },
+                          "presentment_money": {
+                              "amount": "0.00",
+                              "currency_code": "PKR"
+                          }
+                      },
+                      "variant_id": 39448556044460,
+                      "variant_inventory_management": "shopify",
+                      "variant_title": null,
+                      "vendor": "UrbanGalleria",
+                      "tax_lines": [
+                          {
+                              "price": "1680.00",
+                              "price_set": {
+                                  "shop_money": {
+                                      "amount": "1680.00",
+                                      "currency_code": "PKR"
+                                  },
+                                  "presentment_money": {
+                                      "amount": "1680.00",
+                                      "currency_code": "PKR"
+                                  }
+                              },
+                              "rate": 0.16,
+                              "title": "GST"
+                          }
+                      ],
+                      "duties": [],
+                      "discount_allocations": []
+                  }
+              },
+              {
+                  "id": 288367673516,
+                  "line_item_id": 9700020879532,
+                  "location_id": 61751263404,
+                  "quantity": 1,
+                  "restock_type": "return",
+                  "subtotal": 6000,
+                  "subtotal_set": {
+                      "shop_money": {
+                          "amount": "6000.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "6000.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "total_tax": 960,
+                  "total_tax_set": {
+                      "shop_money": {
+                          "amount": "960.00",
+                          "currency_code": "PKR"
+                      },
+                      "presentment_money": {
+                          "amount": "960.00",
+                          "currency_code": "PKR"
+                      }
+                  },
+                  "line_item": {
+                      "id": 9700020879532,
+                      "admin_graphql_api_id": "gid://shopify/LineItem/9700020879532",
+                      "fulfillable_quantity": 0,
+                      "fulfillment_service": "manual",
+                      "fulfillment_status": "fulfilled",
+                      "gift_card": false,
+                      "grams": 10000,
+                      "name": "Table",
+                      "price": "6000.00",
+                      "price_set": {
+                          "shop_money": {
+                              "amount": "6000.00",
+                              "currency_code": "PKR"
+                          },
+                          "presentment_money": {
+                              "amount": "6000.00",
+                              "currency_code": "PKR"
+                          }
+                      },
+                      "product_exists": true,
+                      "product_id": 6600952348844,
+                      "properties": [],
+                      "quantity": 1,
+                      "requires_shipping": true,
+                      "sku": "WT",
+                      "taxable": true,
+                      "title": "Table",
+                      "total_discount": "0.00",
+                      "total_discount_set": {
+                          "shop_money": {
+                              "amount": "0.00",
+                              "currency_code": "PKR"
+                          },
+                          "presentment_money": {
+                              "amount": "0.00",
+                              "currency_code": "PKR"
+                          }
+                      },
+                      "variant_id": 39448557355180,
+                      "variant_inventory_management": "shopify",
+                      "variant_title": null,
+                      "vendor": "UrbanGalleria",
+                      "tax_lines": [
+                          {
+                              "price": "960.00",
+                              "price_set": {
+                                  "shop_money": {
+                                      "amount": "960.00",
+                                      "currency_code": "PKR"
+                                  },
+                                  "presentment_money": {
+                                      "amount": "960.00",
+                                      "currency_code": "PKR"
+                                  }
+                              },
+                              "rate": 0.16,
+                              "title": "GST"
+                          }
+                      ],
+                      "duties": [],
+                      "discount_allocations": []
+                  }
+              }
+          ],
+          "duties": []
+      }
+  ],
+  "shipping_address": {
+      "first_name": "Fahim",
+      "address1": "Street 1 house no. 5",
+      "phone": "+923154260304",
+      "city": "Lahore",
+      "zip": "58401",
+      "province": null,
+      "country": "Pakistan",
+      "last_name": "Khan",
+      "address2": "301",
+      "company": "UG",
+      "latitude": null,
+      "longitude": null,
+      "name": "Fahim Khan",
+      "country_code": "PK",
+      "province_code": null
+  },
+  "shipping_lines": []
+}
